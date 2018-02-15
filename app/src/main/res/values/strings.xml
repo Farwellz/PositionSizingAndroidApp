@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">How much should you trade with ?</string>
+    <string name="welcome">Position sizing calculator</string>
+    <string name="maxCap">Input your max capital (in $)</string>
+    <string name="riskEach">Input the risk you are taking on each trades (e.g \'2\' if 2%)</string>
+    <string name="entryPrice">Input your entry price (e.g \'1204\')</string>
+    <string name="stopPrice">Input your Stop-Loss price (e.g \'1184\')</string>
+    <string name="pressButton">Press to calculate</string>
+    <string name="rrEqualTo">Your R/R is equal to :</string>
+    <string name="stopLossPercent">Your stop-loss is at x% of your entry price</string>
+    <string name="capitalToUseString">The capital you have to use to have a risk of x% is:</string>
+    <string name="longTrade">long trade</string>
+    <string name="shortTrade">Short Trade</string>
+    <string name="maxCapitalValue">0</string>
+    <string name="leverage">What leverage are you using? (if no leverage, put 1)</string>
+    <string name="leverage1">What leverage are you using? (\'1\' if no leverage)</string>
+</resources>
